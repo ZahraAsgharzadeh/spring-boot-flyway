@@ -1,0 +1,1 @@
+ALTER TABLE `math` ADD COLUMN `minus` BIGINT NOT NULL AFTER `plus`;
