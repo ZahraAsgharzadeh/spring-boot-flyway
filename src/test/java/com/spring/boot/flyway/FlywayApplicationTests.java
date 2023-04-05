@@ -9,5 +9,4 @@ class FlywayApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
